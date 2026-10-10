@@ -13,7 +13,9 @@ Centralizar códigos, algoritmos e projetos práticos focados na resolução de 
 ### Stack Tecnológico Base
 
 *Linguagens:* Python, C++, SQL
+
 *Bibliotecas:* Pandas, NumPy, Scikit-Learn, PyTorch
+
 *Ambiente:* Miniconda, VS Code, Git
 
 ---
